@@ -2,10 +2,6 @@
 
 **ChatBuddy** is an AI-powered chatbot designed to assist you with various queries. Integrated with **Google Gemini**, it provides dynamic responses based on user input. 
 
-
-![image](https://github.com/rajkumarmajhi31/ChatXpert)
-
-
 ## Features:
 
 - **Google Gemini Integration**: Leverages the power of **Google Gemini** for generating intelligent responses to user queries.
