@@ -1,4 +1,4 @@
-# ChatBuddy: Your Personal Chat Assistant 😎
+# ChatBuddy: Your Personal Chat Assistant 
 
 **ChatBuddy** is an AI-powered chatbot designed to assist you with various queries. Integrated with **Google Gemini**, it provides dynamic responses based on user input. 
 
