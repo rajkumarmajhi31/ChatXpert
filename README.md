@@ -23,4 +23,5 @@ Ensure you have Python 3.7 or later installed. Then, install the required depend
 
 ```bash
 pip install -r requirements.txt
+pip install streamlit google-generativeai python-dotenv
 ```
