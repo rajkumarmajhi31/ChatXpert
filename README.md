@@ -2,9 +2,8 @@
 
 **ChatBuddy** is an AI-powered chatbot designed to assist you with various queries. Integrated with **Google Gemini**, it provides dynamic responses based on user input. 
 
-## Try it Here : [Click Here](https://chatxpert.streamlit.app/)
 
-![image](https://github.com/user-attachments/assets/2185c4ab-cb0b-4efa-9b11-968af585bae8)
+![image](https://github.com/rajkumarmajhi31/ChatXpert)
 
 
 ## Features:
@@ -19,7 +18,7 @@
 
 **1. Clone the Repository**:
 ```bash
-git clone https://github.com/sandeepkumar96674/ChatXpert
+git clone https://github.com/rajkumarmajhi31/ChatXpert
 ```
 
 **2. Install Dependencies:** 
